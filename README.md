@@ -1,0 +1,2 @@
+# kotonohapcg.github.io
+hoge
